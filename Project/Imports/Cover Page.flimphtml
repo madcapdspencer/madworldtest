@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  ProjectName="NewProject5"
+  ProjectFolder="C:\Users\Administrator\Documents\My Projects\NewProject5A\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="content"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2016-04-12T07:17:49.1958667-07:00"
+  ImportTopicsLocation="Content/">
+  <Files>
+    <Url
+      Source="../../../NewProject5/Content/Cover Page.htm"
+      AbsoluteSource="file:///C:/Users/Administrator/Documents/My Projects/NewProject5/Content/Cover Page.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Cover Page.htm"
+      TimeStamp="4/12/2016 7:17:47 AM" />
+    <Url
+      Source="../TOCs/Cover Page.fltoc"
+      TimeStamp="4/12/2016 7:17:49 AM" />
+  </GeneratedFiles>
+</HtmlImport>
